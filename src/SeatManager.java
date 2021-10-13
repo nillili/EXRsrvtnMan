@@ -41,7 +41,24 @@ public class SeatManager
         }
     }
 
+    /**
+     * ÁÂ¼® Ãë¼Ò
+     * @param grade
+     * @param loc
+     * @param name
+     */
     public void delSeat(int grade, int loc, String name)
+    {
+
+    }
+    
+    /**
+     * ÁÂ¼® ¼öÁ¤
+     * @param grade
+     * @param loc
+     * @param name
+     */
+    public void updateSet(int grade, int loc, String name)
     {
 
     }

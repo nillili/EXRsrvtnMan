@@ -2,9 +2,9 @@ package bean;
 
 public class NormalSeatMem
 {
-     String s[] = {""};
-     String a[] = {""};
-     String b[] = {""};
+     private String s[] = {""};
+     private String a[] = {""};
+     private String b[] = {""};
      
     public String[] getS()
     {
