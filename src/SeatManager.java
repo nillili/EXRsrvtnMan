@@ -58,7 +58,7 @@ public class SeatManager
      * @param loc
      * @param name
      */
-    public void updateSet(int grade, int loc, String name)
+    public void updateSeat(int grade, int loc, String name)
     {
 
     }
