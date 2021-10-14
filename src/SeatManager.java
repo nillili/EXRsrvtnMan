@@ -62,4 +62,12 @@ public class SeatManager
     {
 
     }
+    
+    /**
+     * 보여주기
+     */
+    public void show()
+    {
+        
+    }
 }
